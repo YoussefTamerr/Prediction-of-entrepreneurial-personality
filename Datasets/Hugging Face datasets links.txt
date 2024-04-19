@@ -1,0 +1,2 @@
+https://huggingface.co/datasets/ClaudiaRichard/mbti_classification_v2 --MBTI huggingface
+https://huggingface.co/datasets/Fatima0923/Automated-Personality-Prediction --pandora (for regression)
